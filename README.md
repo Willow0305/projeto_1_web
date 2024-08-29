@@ -1,2 +1,8 @@
 # projeto_1_web
-para pratica no laboratório Web Academy
+Projeto de portal de vendas
+para praticano Web Academy
+com a utilização do git 
+
+é utilizado html e css.
+Autor :
+    William
